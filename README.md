@@ -10,7 +10,7 @@
 
 **Tutorial :** <br>
 
-1. Youtube : 
+1. Youtube : https://youtube.com/shorts/sOPcmQ1GpzY?si=tQSBBlGyORyAmyG4
 2. Pdf : [TUTORIAL-PARSING-JSON](https://drive.google.com/file/d/16-8bdLOq8XLe2NZhrh5gDxPx43cq3GTu/view?usp=drive_link)
 
 **Proyek: Aplikasi Android untuk Laporan Keuangan KAS RT**
