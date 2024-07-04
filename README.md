@@ -41,3 +41,8 @@ Proyek ini bertujuan untuk membuat aplikasi Android yang dapat menghasilkan lapo
 6. **Pembaruan AndroidManifest.xml**: Memperbarui file manifest Android dengan menambahkan setiap aktivitas yang telah dibuat, serta menambahkan izin internet jika diperlukan untuk akses ke sumber data eksternal.
 
 7. **Uji Coba dan Debugging**: Mengujicoba aplikasi di berbagai emulator atau perangkat fisik untuk memastikan kinerjanya yang optimal. Langkah ini penting untuk menemukan dan memperbaiki bug atau masalah lainnya yang mungkin terjadi selama pengembangan.
+![APP1](https://github.com/Febriyaninurhida123/KAS_RT/assets/90132092/f65f3fbe-76c5-4a1a-85a5-562e6c1e6def)
+![APP2](https://github.com/Febriyaninurhida123/KAS_RT/assets/90132092/c403a4cf-73ae-4935-8327-4c2f1a1312fb)
+![APP3](https://github.com/Febriyaninurhida123/KAS_RT/assets/90132092/1dcf334d-1d27-4bfd-b283-b9f86a89b875)
+
+
